@@ -9,7 +9,7 @@ resource "aws_vpc" "vpc1" {
 }
 
 resource "aws_eip" "ei" {
-  
+
 
 }
 resource "aws_nat_gateway" "nat1" {
